@@ -48,7 +48,7 @@ import { useFlexSearch } from '@noction/vue-use-flexsearch'
     
 const store = [
   { id: 1, title: 'The Jungle Book' },
-  { id: 2, title: 'Darcula' },
+  { id: 2, title: 'Dracula' },
   { id: 3, title: 'Shōgun' }
 ]
 const index = new Index({ preset: 'match' })
